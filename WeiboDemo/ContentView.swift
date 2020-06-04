@@ -10,7 +10,11 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+<<<<<<< HEAD
         Text("Hello World！")
+=======
+        Text("Hello World")
+>>>>>>> master
     }
 }
 
